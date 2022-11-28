@@ -27,6 +27,13 @@ def scrape_website(site_address = "https://www.worldometers.info/coronavirus/#co
     will output the total death count for South Korea on November 28, 2022
     This function requires the json, requests, bs4, datetime, and os modules
     """
+    #Check if the website passed to the function is worldometer
+    if site_address == "https://www.worldometers.info/coronavirus/#countries":
+        pass
+    #If it is not, print a warning that the function is only formatted for worldometer
+    else:
+        print("Warning: Function is only able to handle websites formatted exactly like 'https://www.worldometers.info/coronavirus/#countries'")
+
     #Get data from the worldometer website using requests modules
     response = requests.get(site_address)
 
@@ -72,6 +79,9 @@ def scrape_website(site_address = "https://www.worldometers.info/coronavirus/#co
                 start_char += -1
             #With the calculated start and end positions of the country name, the name can be assigned to the country_name variable
             country_name = country_html[start_char+1:end_char]
+            #For countries with non-standard letters, replace the characters with letters
+            country_name = country_name.replace("\u00e7","c")
+            country_name = country_name.replace("\u00e9","e")
 
         #Initialize a variable to contain each countries data
         data_list = []
@@ -196,6 +206,14 @@ def scrape_country(country_name = "World", site_address = "https://www.worldomet
     This function will call the scrape_website function for the input site address
     Then, it will output the data for the county specified in the country_name variable for today
     """
+    #Check if the website passed to the function is worldometer
+    if site_address == "https://www.worldometers.info/coronavirus/#countries":
+        pass
+    #If it is not, print a warning that the function is only formatted for worldometer
+    else:
+        print("Warning: Function is only able to handle websites formatted exactly like 'https://www.worldometers.info/coronavirus/#countries'")
+
+    #Call the scrape website function to collect data
     scrape_website(site_address)
     #Use the datetime module to compute today's date (to label the data)
     today_date_obj = datetime.datetime.now(datetime.timezone.utc)
@@ -205,6 +223,14 @@ def scrape_country(country_name = "World", site_address = "https://www.worldomet
     json_file = open(today_date+".json")
     #Load the saved dictionary for today's data
     data_dict = json.load(json_file)
+
+    #Check if the input country exists in the file
+    if country_name in data_dict.keys():
+        pass
+    else:
+        #If not, print a warning and the valid country names
+        print(f"Warning: the input country was not found in the data. Please select a valid country in {data_dict.keys()}")
+
     #Print the data for the selected country
     print(f"On {today_date}, {country_name} had: {data_dict[country_name]}")
     #Return that data to the function
@@ -218,6 +244,20 @@ def append_date(date_to_append):
     If this file has not been created yet, run the scrape_website function first
     The date_to_append variable requires a string formatted as YYYY-MM-DD.json (ex: "2022-11-21.json")
     """
+    #Check if the Scraped_Data.json file has been created
+    if os.path.isfile("Scraped_Data.json"):
+        pass
+    else:
+        #If not, tell user that they must run the scrape_website function first
+        print("Warning: The Scraped_Data.json file does not exist. Please run the scrape_website function first.")
+
+    #Check if the data file for the input date exists
+    if os.path.isfile(date_to_append+".json"):
+        pass
+    else:
+        #If not, tell user that they must input a date that has a data file
+        print("Warning: The selected date file does not exist. Please input a date that has an associated data file.")
+
     #Open the file with the selected day's data
     json_file = open(date_to_append+".json")
     #Load the saved dictionary for the selected day's data

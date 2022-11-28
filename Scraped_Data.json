@@ -1,10 +1,10 @@
 {
     "2022-11-28": {
         "World": {
-            "Total Cases": 46295714.0,
-            "New Cases": 136050.0,
-            "Total Deaths": 636892.0,
-            "New Deaths": 598.0,
+            "Total Cases": 46298563.0,
+            "New Cases": 138899.0,
+            "Total Deaths": 636897.0,
+            "New Deaths": 603.0,
             "Total Cases /1M": 2914.0,
             "New Cases /1M": 51.5,
             "Total Deaths /1M": "N/A",
@@ -21,13 +21,13 @@
             "New Deaths /1M": "N/A"
         },
         "India": {
-            "Total Cases": 44672827.0,
-            "New Cases": "N/A",
+            "Total Cases": 44673170.0,
+            "New Cases": 343.0,
             "Total Deaths": 530614.0,
             "New Deaths": "N/A",
             "Total Cases /1M": 31759.0,
             "New Cases /1M": 377.0,
-            "Total Deaths /1M": "N/A",
+            "Total Deaths /1M": 0.2,
             "New Deaths /1M": "N/A"
         },
         "France": {
@@ -271,14 +271,14 @@
             "New Deaths /1M": "N/A"
         },
         "Malaysia": {
-            "Total Cases": 4986294.0,
-            "New Cases": "N/A",
-            "Total Deaths": 36652.0,
-            "New Deaths": "N/A",
-            "Total Cases /1M": 150275.0,
+            "Total Cases": 4988759.0,
+            "New Cases": 2465.0,
+            "Total Deaths": 36657.0,
+            "New Deaths": 5.0,
+            "Total Cases /1M": 150350.0,
             "New Cases /1M": 1105.0,
-            "Total Deaths /1M": "N/A",
-            "New Deaths /1M": "N/A"
+            "Total Deaths /1M": 74.0,
+            "New Deaths /1M": 0.2
         },
         "Chile": {
             "Total Cases": 4912805.0,
@@ -930,7 +930,7 @@
             "Total Deaths /1M": "N/A",
             "New Deaths /1M": "N/A"
         },
-        "R\u00e9union": {
+        "Reunion": {
             "Total Cases": 476088.0,
             "New Cases": "N/A",
             "Total Deaths": 902.0,
@@ -1051,13 +1051,13 @@
             "New Deaths /1M": "N/A"
         },
         "Algeria": {
-            "Total Cases": 271061.0,
-            "New Cases": "N/A",
+            "Total Cases": 271079.0,
+            "New Cases": 18.0,
             "Total Deaths": 6881.0,
             "New Deaths": "N/A",
             "Total Cases /1M": 5977.0,
             "New Cases /1M": 152.0,
-            "Total Deaths /1M": "N/A",
+            "Total Deaths /1M": 0.4,
             "New Deaths /1M": "N/A"
         },
         "Nigeria": {
@@ -1451,23 +1451,23 @@
             "New Deaths /1M": "N/A"
         },
         "Mauritania": {
-            "Total Cases": 63419.0,
-            "New Cases": "N/A",
+            "Total Cases": 63420.0,
+            "New Cases": 1.0,
             "Total Deaths": 997.0,
             "New Deaths": "N/A",
-            "Total Cases /1M": 12937.0,
+            "Total Cases /1M": 12938.0,
             "New Cases /1M": 203.0,
-            "Total Deaths /1M": "N/A",
+            "Total Deaths /1M": 0.2,
             "New Deaths /1M": "N/A"
         },
         "Cabo Verde": {
-            "Total Cases": 62969.0,
-            "New Cases": "N/A",
+            "Total Cases": 62991.0,
+            "New Cases": 22.0,
             "Total Deaths": 412.0,
             "New Deaths": "N/A",
-            "Total Cases /1M": 110924.0,
+            "Total Cases /1M": 110963.0,
             "New Cases /1M": 726.0,
-            "Total Deaths /1M": "N/A",
+            "Total Deaths /1M": 39.0,
             "New Deaths /1M": "N/A"
         },
         "Bhutan": {
@@ -1540,7 +1540,7 @@
             "Total Deaths /1M": "N/A",
             "New Deaths /1M": "N/A"
         },
-        "Cura\u00e7ao": {
+        "Curacao": {
             "Total Cases": 45559.0,
             "New Cases": "N/A",
             "Total Deaths": 295.0,
@@ -3242,7 +3242,7 @@
             "Total Deaths /1M": 87.0,
             "New Deaths /1M": "N/A"
         },
-        "R\u00e9union": {
+        "Reunion": {
             "Total Cases": 476088.0,
             "New Cases": "N/A",
             "Total Deaths": 902.0,
@@ -3852,7 +3852,7 @@
             "Total Deaths /1M": "N/A",
             "New Deaths /1M": "N/A"
         },
-        "Cura\u00e7ao": {
+        "Curacao": {
             "Total Cases": 45559.0,
             "New Cases": "N/A",
             "Total Deaths": 295.0,
@@ -5554,7 +5554,7 @@
             "Total Deaths /1M": "N/A",
             "New Deaths /1M": "N/A"
         },
-        "R\u00e9union": {
+        "Reunion": {
             "Total Cases": 476088.0,
             "New Cases": "N/A",
             "Total Deaths": 902.0,
@@ -6164,7 +6164,7 @@
             "Total Deaths /1M": "N/A",
             "New Deaths /1M": "N/A"
         },
-        "Cura\u00e7ao": {
+        "Curacao": {
             "Total Cases": 45559.0,
             "New Cases": "N/A",
             "Total Deaths": 295.0,
@@ -10178,7 +10178,7 @@
             "Total Deaths /1M": 95.0,
             "New Deaths /1M": "N/A"
         },
-        "R\u00e9union": {
+        "Reunion": {
             "Total Cases": 475195.0,
             "New Cases": "N/A",
             "Total Deaths": 902.0,
@@ -10788,7 +10788,7 @@
             "Total Deaths /1M": "N/A",
             "New Deaths /1M": "N/A"
         },
-        "Cura\u00e7ao": {
+        "Curacao": {
             "Total Cases": 45536.0,
             "New Cases": "N/A",
             "Total Deaths": 294.0,
@@ -12490,7 +12490,7 @@
             "Total Deaths /1M": 77.0,
             "New Deaths /1M": "N/A"
         },
-        "R\u00e9union": {
+        "Reunion": {
             "Total Cases": 475195.0,
             "New Cases": "N/A",
             "Total Deaths": 902.0,
@@ -13100,7 +13100,7 @@
             "Total Deaths /1M": "N/A",
             "New Deaths /1M": "N/A"
         },
-        "Cura\u00e7ao": {
+        "Curacao": {
             "Total Cases": 45536.0,
             "New Cases": "N/A",
             "Total Deaths": 294.0,
