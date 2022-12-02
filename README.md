@@ -39,3 +39,9 @@ Dated .json files contain dictionaries with the data from previous days that hav
 Updated Scraped_Data.json file contains the dictionary with multiple days' data.
 The dictionary is keyed with [Date][Country Name][Data Type]
 For example, dated_dict["2022-11-28"]["China"]["Total Deaths"] will output the total deaths value for China on Nov. 28, 2022
+
+
+RUNNING DASHBOARD INSTRUCTIONS:
+To run dashboard navigate to directory in cmd then run : "python -m bokeh serve --show CovidDashboard.py"
+
+
