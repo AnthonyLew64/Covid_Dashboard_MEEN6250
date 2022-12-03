@@ -1,112 +1,112 @@
 {
     "World": {
-        "Total Cases": 46697571.0,
-        "New Cases": 254148.0,
-        "Total Deaths": 6638052.0,
-        "New Deaths": 423.0,
-        "Total Cases /1M": 2965.0,
-        "New Cases /1M": 51.6,
+        "Total Cases": 649527387.0,
+        "New Cases": 218254.0,
+        "Total Deaths": 6645575.0,
+        "New Deaths": 469.0,
+        "Total Cases /1M": 83328.0,
+        "New Cases /1M": 852.6,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "USA": {
-        "Total Cases": 100507928.0,
+        "Total Cases": 100787779.0,
         "New Cases": "N/A",
-        "Total Deaths": 1104879.0,
+        "Total Deaths": 1106607.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 300198.0,
-        "New Cases /1M": 3300.0,
+        "Total Cases /1M": 301034.0,
+        "New Cases /1M": 3305.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "India": {
-        "Total Cases": 44673170.0,
+        "Total Cases": 44674195.0,
         "New Cases": "N/A",
-        "Total Deaths": 530615.0,
+        "Total Deaths": 530627.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 31759.0,
+        "Total Cases /1M": 31760.0,
         "New Cases /1M": 377.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "France": {
-        "Total Cases": 37686603.0,
+        "Total Cases": 37975060.0,
         "New Cases": "N/A",
-        "Total Deaths": 158771.0,
+        "Total Deaths": 159093.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 574627.0,
-        "New Cases /1M": 2421.0,
+        "Total Cases /1M": 579025.0,
+        "New Cases /1M": 2426.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Germany": {
-        "Total Cases": 36419717.0,
+        "Total Cases": 36557861.0,
         "New Cases": "N/A",
-        "Total Deaths": 157657.0,
+        "Total Deaths": 158198.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 434170.0,
-        "New Cases /1M": 1879.0,
+        "Total Cases /1M": 435817.0,
+        "New Cases /1M": 1886.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Brazil": {
-        "Total Cases": 35229745.0,
+        "Total Cases": 35375733.0,
         "New Cases": "N/A",
-        "Total Deaths": 689601.0,
+        "Total Deaths": 690129.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 163590.0,
-        "New Cases /1M": 3202.0,
+        "Total Cases /1M": 164268.0,
+        "New Cases /1M": 3205.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "S. Korea": {
-        "Total Cases": 27031319.0,
-        "New Cases": 71476.0,
-        "Total Deaths": 30454.0,
-        "New Deaths": 41.0,
-        "Total Cases /1M": 526619.0,
-        "New Cases /1M": 593.0,
-        "Total Deaths /1M": 1392.0,
-        "New Deaths /1M": 0.8
+        "Total Cases": 27261526.0,
+        "New Cases": 52726.0,
+        "Total Deaths": 30669.0,
+        "New Deaths": 48.0,
+        "Total Cases /1M": 531104.0,
+        "New Cases /1M": 597.0,
+        "Total Deaths /1M": 1027.0,
+        "New Deaths /1M": 0.9
     },
     "Japan": {
-        "Total Cases": 24654770.0,
-        "New Cases": 127422.0,
-        "Total Deaths": 49434.0,
-        "New Deaths": 153.0,
-        "Total Cases /1M": 196320.0,
-        "New Cases /1M": 394.0,
-        "Total Deaths /1M": 1015.0,
+        "Total Cases": 25130886.0,
+        "New Cases": 109591.0,
+        "Total Deaths": 50193.0,
+        "New Deaths": 180.0,
+        "Total Cases /1M": 200111.0,
+        "New Cases /1M": 400.0,
+        "Total Deaths /1M": 873.0,
         "New Deaths /1M": 1.0
     },
     "Italy": {
-        "Total Cases": 24260660.0,
+        "Total Cases": 24488080.0,
         "New Cases": "N/A",
-        "Total Deaths": 181098.0,
+        "Total Deaths": 181733.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 402581.0,
-        "New Cases /1M": 3005.0,
+        "Total Cases /1M": 406355.0,
+        "New Cases /1M": 3016.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "UK": {
-        "Total Cases": 24000101.0,
+        "Total Cases": 24024746.0,
         "New Cases": "N/A",
-        "Total Deaths": 196821.0,
+        "Total Deaths": 197253.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 350377.0,
-        "New Cases /1M": 2873.0,
+        "Total Cases /1M": 350737.0,
+        "New Cases /1M": 2880.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Russia": {
-        "Total Cases": 21584740.0,
-        "New Cases": 4928.0,
-        "Total Deaths": 391943.0,
-        "New Deaths": 53.0,
-        "Total Cases /1M": 148037.0,
-        "New Cases /1M": 2688.0,
-        "Total Deaths /1M": 34.0,
+        "Total Cases": 21611003.0,
+        "New Cases": 6669.0,
+        "Total Deaths": 392176.0,
+        "New Deaths": 59.0,
+        "Total Cases /1M": 148218.0,
+        "New Cases /1M": 2690.0,
+        "Total Deaths /1M": 46.0,
         "New Deaths /1M": 0.4
     },
     "Turkey": {
@@ -120,34 +120,34 @@
         "New Deaths /1M": "N/A"
     },
     "Spain": {
-        "Total Cases": 13595504.0,
+        "Total Cases": 13614807.0,
         "New Cases": "N/A",
-        "Total Deaths": 115901.0,
+        "Total Deaths": 116108.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 291005.0,
-        "New Cases /1M": 2481.0,
+        "Total Cases /1M": 291418.0,
+        "New Cases /1M": 2485.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Vietnam": {
-        "Total Cases": 11515423.0,
-        "New Cases": 558.0,
-        "Total Deaths": 43172.0,
-        "New Deaths": 2.0,
-        "Total Cases /1M": 116372.0,
+        "Total Cases": 11517517.0,
+        "New Cases": 393.0,
+        "Total Deaths": 43177.0,
+        "New Deaths": 1.0,
+        "Total Cases /1M": 116393.0,
         "New Cases /1M": 436.0,
-        "Total Deaths /1M": 6.0,
-        "New Deaths /1M": 0.02
+        "Total Deaths /1M": 4.0,
+        "New Deaths /1M": 0.01
     },
     "Australia": {
-        "Total Cases": 10651218.0,
-        "New Cases": 4149.0,
-        "Total Deaths": 16119.0,
-        "New Deaths": 19.0,
-        "Total Cases /1M": 408581.0,
-        "New Cases /1M": 618.0,
-        "Total Deaths /1M": 159.0,
-        "New Deaths /1M": 0.7
+        "Total Cases": 10748145.0,
+        "New Cases": 4211.0,
+        "Total Deaths": 16244.0,
+        "New Deaths": 21.0,
+        "Total Cases /1M": 412299.0,
+        "New Cases /1M": 623.0,
+        "Total Deaths /1M": 162.0,
+        "New Deaths /1M": 0.8
     },
     "Argentina": {
         "Total Cases": 9727247.0,
@@ -160,134 +160,134 @@
         "New Deaths /1M": "N/A"
     },
     "Netherlands": {
-        "Total Cases": 8539297.0,
+        "Total Cases": 8544770.0,
         "New Cases": "N/A",
-        "Total Deaths": 22907.0,
+        "Total Deaths": 22920.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 496141.0,
-        "New Cases /1M": 1331.0,
+        "Total Cases /1M": 496459.0,
+        "New Cases /1M": 1332.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Taiwan": {
-        "Total Cases": 8295652.0,
-        "New Cases": 17289.0,
-        "Total Deaths": 14297.0,
-        "New Deaths": 21.0,
-        "Total Cases /1M": 347264.0,
-        "New Cases /1M": 598.0,
-        "Total Deaths /1M": 724.0,
-        "New Deaths /1M": 0.9
+        "Total Cases": 8356217.0,
+        "New Cases": 13152.0,
+        "Total Deaths": 14449.0,
+        "New Deaths": 33.0,
+        "Total Cases /1M": 349799.0,
+        "New Cases /1M": 605.0,
+        "Total Deaths /1M": 551.0,
+        "New Deaths /1M": 1.0
     },
     "Iran": {
-        "Total Cases": 7559664.0,
-        "New Cases": 30.0,
-        "Total Deaths": 144633.0,
-        "New Deaths": "N/A",
-        "Total Cases /1M": 87880.0,
+        "Total Cases": 7559799.0,
+        "New Cases": 39.0,
+        "Total Deaths": 144637.0,
+        "New Deaths": 3.0,
+        "Total Cases /1M": 87881.0,
         "New Cases /1M": 1681.0,
-        "Total Deaths /1M": 0.3,
-        "New Deaths /1M": "N/A"
+        "Total Deaths /1M": 0.5,
+        "New Deaths /1M": 0.03
     },
     "Mexico": {
-        "Total Cases": 7125176.0,
+        "Total Cases": 7132792.0,
         "New Cases": "N/A",
-        "Total Deaths": 330495.0,
+        "Total Deaths": 330525.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 54158.0,
+        "Total Cases /1M": 54216.0,
         "New Cases /1M": 2512.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Indonesia": {
-        "Total Cases": 6659235.0,
-        "New Cases": 5766.0,
-        "Total Deaths": 159789.0,
-        "New Deaths": 54.0,
-        "Total Cases /1M": 23857.0,
-        "New Cases /1M": 572.0,
-        "Total Deaths /1M": 21.0,
-        "New Deaths /1M": 0.2
+        "Total Cases": 6677655.0,
+        "New Cases": 3655.0,
+        "Total Deaths": 159953.0,
+        "New Deaths": 32.0,
+        "Total Cases /1M": 23923.0,
+        "New Cases /1M": 573.0,
+        "Total Deaths /1M": 13.0,
+        "New Deaths /1M": 0.1
     },
     "Poland": {
-        "Total Cases": 6352170.0,
-        "New Cases": 763.0,
-        "Total Deaths": 118313.0,
-        "New Deaths": 7.0,
-        "Total Cases /1M": 168315.0,
-        "New Cases /1M": 3135.0,
-        "Total Deaths /1M": 20.0,
+        "Total Cases": 6354298.0,
+        "New Cases": 448.0,
+        "Total Deaths": 118340.0,
+        "New Deaths": 8.0,
+        "Total Cases /1M": 168371.0,
+        "New Cases /1M": 3136.0,
+        "Total Deaths /1M": 12.0,
         "New Deaths /1M": 0.2
     },
     "Colombia": {
-        "Total Cases": 6314769.0,
+        "Total Cases": 6318021.0,
         "New Cases": "N/A",
-        "Total Deaths": 141895.0,
+        "Total Deaths": 141911.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 122586.0,
+        "Total Cases /1M": 122650.0,
         "New Cases /1M": 2755.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Austria": {
-        "Total Cases": 5550575.0,
-        "New Cases": "N/A",
-        "Total Deaths": 21189.0,
+        "Total Cases": 5576700.0,
+        "New Cases": 4347.0,
+        "Total Deaths": 21231.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 612193.0,
-        "New Cases /1M": 2337.0,
-        "Total Deaths /1M": "N/A",
+        "Total Cases /1M": 615074.0,
+        "New Cases /1M": 2342.0,
+        "Total Deaths /1M": 479.0,
         "New Deaths /1M": "N/A"
     },
     "Portugal": {
-        "Total Cases": 5542265.0,
+        "Total Cases": 5546290.0,
         "New Cases": "N/A",
-        "Total Deaths": 25450.0,
+        "Total Deaths": 25517.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 546544.0,
-        "New Cases /1M": 2510.0,
+        "Total Cases /1M": 546941.0,
+        "New Cases /1M": 2516.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Greece": {
-        "Total Cases": 5360506.0,
+        "Total Cases": 5404690.0,
         "New Cases": "N/A",
-        "Total Deaths": 34178.0,
+        "Total Deaths": 34309.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 519598.0,
-        "New Cases /1M": 3313.0,
+        "Total Cases /1M": 523881.0,
+        "New Cases /1M": 3326.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Ukraine": {
-        "Total Cases": 5336293.0,
+        "Total Cases": 5341284.0,
         "New Cases": "N/A",
-        "Total Deaths": 110505.0,
+        "Total Deaths": 110586.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 123548.0,
-        "New Cases /1M": 2558.0,
+        "Total Cases /1M": 123663.0,
+        "New Cases /1M": 2560.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Malaysia": {
-        "Total Cases": 4988759.0,
+        "Total Cases": 4996964.0,
         "New Cases": "N/A",
-        "Total Deaths": 36657.0,
+        "Total Deaths": 36704.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 150350.0,
-        "New Cases /1M": 1105.0,
+        "Total Cases /1M": 150597.0,
+        "New Cases /1M": 1106.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Chile": {
-        "Total Cases": 4915134.0,
-        "New Cases": 2329.0,
-        "Total Deaths": 62417.0,
-        "New Deaths": 10.0,
-        "Total Cases /1M": 255329.0,
-        "New Cases /1M": 3242.0,
-        "Total Deaths /1M": 121.0,
-        "New Deaths /1M": 0.5
+        "Total Cases": 4933525.0,
+        "New Cases": 4027.0,
+        "Total Deaths": 62543.0,
+        "New Deaths": 33.0,
+        "Total Cases /1M": 256284.0,
+        "New Cases /1M": 3249.0,
+        "Total Deaths /1M": 209.0,
+        "New Deaths /1M": 2.0
     },
     "DPRK": {
         "Total Cases": 4772813.0,
@@ -300,12 +300,12 @@
         "New Deaths /1M": "N/A"
     },
     "Israel": {
-        "Total Cases": 4718373.0,
+        "Total Cases": 4724509.0,
         "New Cases": "N/A",
-        "Total Deaths": 11845.0,
+        "Total Deaths": 11865.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 505937.0,
-        "New Cases /1M": 1270.0,
+        "Total Cases /1M": 506595.0,
+        "New Cases /1M": 1272.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
@@ -320,14 +320,24 @@
         "New Deaths /1M": "N/A"
     },
     "Belgium": {
-        "Total Cases": 4636264.0,
+        "Total Cases": 4639411.0,
         "New Cases": "N/A",
-        "Total Deaths": 33057.0,
+        "Total Deaths": 33061.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 397339.0,
+        "Total Cases /1M": 397609.0,
         "New Cases /1M": 2833.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
+    },
+    "Czechia": {
+        "Total Cases": 4561031.0,
+        "New Cases": 919.0,
+        "Total Deaths": 41901.0,
+        "New Deaths": 2.0,
+        "Total Cases /1M": 424804.0,
+        "New Cases /1M": 3903.0,
+        "Total Deaths /1M": 86.0,
+        "New Deaths /1M": 0.2
     },
     "Canada": {
         "Total Cases": 4408276.0,
@@ -340,54 +350,44 @@
         "New Deaths /1M": "N/A"
     },
     "Switzerland": {
-        "Total Cases": 4298016.0,
+        "Total Cases": 4317035.0,
         "New Cases": "N/A",
         "Total Deaths": 14318.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 489878.0,
+        "Total Cases /1M": 492046.0,
         "New Cases /1M": 1632.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Peru": {
-        "Total Cases": 4229179.0,
+        "Total Cases": 4278997.0,
         "New Cases": "N/A",
-        "Total Deaths": 217386.0,
+        "Total Deaths": 217441.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 125554.0,
-        "New Cases /1M": 6454.0,
+        "Total Cases /1M": 127033.0,
+        "New Cases /1M": 6455.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
-    "Czechia": {
-        "Total Cases": 4172122.0,
-        "New Cases": 874.0,
-        "Total Deaths": 41814.0,
-        "New Deaths": 1.0,
-        "Total Cases /1M": 388582.0,
-        "New Cases /1M": 3894.0,
-        "Total Deaths /1M": 81.0,
-        "New Deaths /1M": 0.09
-    },
     "South Africa": {
-        "Total Cases": 4041445.0,
-        "New Cases": 465.0,
-        "Total Deaths": 102428.0,
+        "Total Cases": 4042520.0,
+        "New Cases": "N/A",
+        "Total Deaths": 102464.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 66519.0,
+        "Total Cases /1M": 66537.0,
         "New Cases /1M": 1686.0,
-        "Total Deaths /1M": 8.0,
+        "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Philippines": {
-        "Total Cases": 4035487.0,
-        "New Cases": 801.0,
-        "Total Deaths": 64620.0,
-        "New Deaths": 12.0,
-        "Total Cases /1M": 35868.0,
-        "New Cases /1M": 574.0,
-        "Total Deaths /1M": 7.0,
-        "New Deaths /1M": 0.1
+        "Total Cases": 4039978.0,
+        "New Cases": 1234.0,
+        "Total Deaths": 64701.0,
+        "New Deaths": 19.0,
+        "Total Cases /1M": 35908.0,
+        "New Cases /1M": 575.0,
+        "Total Deaths /1M": 11.0,
+        "New Deaths /1M": 0.2
     },
     "Romania": {
         "Total Cases": 3296834.0,
@@ -400,22 +400,22 @@
         "New Deaths /1M": "N/A"
     },
     "Denmark": {
-        "Total Cases": 3147015.0,
-        "New Cases": 563.0,
-        "Total Deaths": 7528.0,
-        "New Deaths": 4.0,
-        "Total Cases /1M": 539339.0,
-        "New Cases /1M": 1290.0,
-        "Total Deaths /1M": 96.0,
-        "New Deaths /1M": 0.7
+        "Total Cases": 3148725.0,
+        "New Cases": "N/A",
+        "Total Deaths": 7541.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 539632.0,
+        "New Cases /1M": 1292.0,
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
     },
     "Sweden": {
-        "Total Cases": 2626686.0,
+        "Total Cases": 2632091.0,
         "New Cases": "N/A",
-        "Total Deaths": 21002.0,
+        "Total Deaths": 21095.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 257040.0,
-        "New Cases /1M": 2055.0,
+        "Total Cases /1M": 257569.0,
+        "New Cases /1M": 2064.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
@@ -430,54 +430,54 @@
         "New Deaths /1M": "N/A"
     },
     "Serbia": {
-        "Total Cases": 2422181.0,
+        "Total Cases": 2424595.0,
         "New Cases": "N/A",
-        "Total Deaths": 17374.0,
+        "Total Deaths": 17395.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 279923.0,
-        "New Cases /1M": 2008.0,
+        "Total Cases /1M": 280202.0,
+        "New Cases /1M": 2010.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Singapore": {
-        "Total Cases": 2164689.0,
+        "Total Cases": 2170498.0,
         "New Cases": "N/A",
-        "Total Deaths": 1702.0,
+        "Total Deaths": 1705.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 364208.0,
-        "New Cases /1M": 286.0,
+        "Total Cases /1M": 365186.0,
+        "New Cases /1M": 287.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Hungary": {
-        "Total Cases": 2162093.0,
+        "Total Cases": 2166352.0,
         "New Cases": "N/A",
-        "Total Deaths": 48245.0,
+        "Total Deaths": 48287.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 225071.0,
-        "New Cases /1M": 5022.0,
+        "Total Cases /1M": 225515.0,
+        "New Cases /1M": 5027.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Hong Kong": {
-        "Total Cases": 2109435.0,
-        "New Cases": 7547.0,
-        "Total Deaths": 10731.0,
-        "New Deaths": 13.0,
-        "Total Cases /1M": 277400.0,
-        "New Cases /1M": 1411.0,
-        "Total Deaths /1M": 992.0,
+        "Total Cases": 2148489.0,
+        "New Cases": 10111.0,
+        "Total Deaths": 10790.0,
+        "New Deaths": 17.0,
+        "Total Cases /1M": 282536.0,
+        "New Cases /1M": 1419.0,
+        "Total Deaths /1M": 1330.0,
         "New Deaths /1M": 2.0
     },
     "Bangladesh": {
-        "Total Cases": 2036567.0,
-        "New Cases": 11.0,
-        "Total Deaths": 29433.0,
-        "New Deaths": 1.0,
+        "Total Cases": 2036622.0,
+        "New Cases": 10.0,
+        "Total Deaths": 29434.0,
+        "New Deaths": "N/A",
         "Total Cases /1M": 12131.0,
         "New Cases /1M": 175.0,
-        "Total Deaths /1M": 0.07,
-        "New Deaths /1M": 0.01
+        "Total Deaths /1M": 0.06,
+        "New Deaths /1M": "N/A"
     },
     "New Zealand": {
         "Total Cases": 1945117.0,
@@ -490,13 +490,13 @@
         "New Deaths /1M": "N/A"
     },
     "Slovakia": {
-        "Total Cases": 1855827.0,
-        "New Cases": 123.0,
-        "Total Deaths": 20732.0,
+        "Total Cases": 1856330.0,
+        "New Cases": 122.0,
+        "Total Deaths": 20740.0,
         "New Deaths": 3.0,
-        "Total Cases /1M": 339883.0,
-        "New Cases /1M": 3797.0,
-        "Total Deaths /1M": 23.0,
+        "Total Cases /1M": 339975.0,
+        "New Cases /1M": 3798.0,
+        "Total Deaths /1M": 22.0,
         "New Deaths /1M": 0.5
     },
     "Georgia": {
@@ -520,173 +520,173 @@
         "New Deaths /1M": "N/A"
     },
     "Ireland": {
-        "Total Cases": 1678827.0,
+        "Total Cases": 1680548.0,
         "New Cases": "N/A",
-        "Total Deaths": 8131.0,
+        "Total Deaths": 8159.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 334414.0,
-        "New Cases /1M": 1620.0,
+        "Total Cases /1M": 334757.0,
+        "New Cases /1M": 1625.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Pakistan": {
-        "Total Cases": 1575147.0,
-        "New Cases": 22.0,
-        "Total Deaths": 30631.0,
-        "New Deaths": 1.0,
+        "Total Cases": 1575274.0,
+        "New Cases": 24.0,
+        "Total Deaths": 30632.0,
+        "New Deaths": "N/A",
         "Total Cases /1M": 6864.0,
         "New Cases /1M": 133.0,
         "Total Deaths /1M": 0.1,
         "New Deaths /1M": "N/A"
     },
     "Norway": {
-        "Total Cases": 1468663.0,
+        "Total Cases": 1469419.0,
         "New Cases": "N/A",
         "Total Deaths": 4325.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 266479.0,
+        "Total Cases /1M": 266616.0,
         "New Cases /1M": 785.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
-    "Kazakhstan": {
-        "Total Cases": 1396611.0,
-        "New Cases": 85.0,
-        "Total Deaths": 13693.0,
-        "New Deaths": "N/A",
-        "Total Cases /1M": 72721.0,
-        "New Cases /1M": 713.0,
-        "Total Deaths /1M": 4.0,
-        "New Deaths /1M": "N/A"
-    },
     "Finland": {
-        "Total Cases": 1394254.0,
+        "Total Cases": 1405255.0,
         "New Cases": "N/A",
-        "Total Deaths": 7265.0,
+        "Total Deaths": 7448.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 250993.0,
-        "New Cases /1M": 1308.0,
+        "Total Cases /1M": 252973.0,
+        "New Cases /1M": 1341.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
-    "Bulgaria": {
-        "Total Cases": 1286872.0,
-        "New Cases": "N/A",
-        "Total Deaths": 38033.0,
+    "Kazakhstan": {
+        "Total Cases": 1397257.0,
+        "New Cases": 173.0,
+        "Total Deaths": 13693.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 188013.0,
-        "New Cases /1M": 5557.0,
+        "Total Cases /1M": 72755.0,
+        "New Cases /1M": 713.0,
+        "Total Deaths /1M": 9.0,
+        "New Deaths /1M": "N/A"
+    },
+    "Bulgaria": {
+        "Total Cases": 1287594.0,
+        "New Cases": "N/A",
+        "Total Deaths": 38048.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 188118.0,
+        "New Cases /1M": 5559.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Lithuania": {
-        "Total Cases": 1275230.0,
-        "New Cases": 339.0,
-        "Total Deaths": 9432.0,
-        "New Deaths": "N/A",
-        "Total Cases /1M": 479102.0,
-        "New Cases /1M": 3544.0,
-        "Total Deaths /1M": 127.0,
-        "New Deaths /1M": "N/A"
+        "Total Cases": 1277475.0,
+        "New Cases": 406.0,
+        "Total Deaths": 9436.0,
+        "New Deaths": 1.0,
+        "Total Cases /1M": 479946.0,
+        "New Cases /1M": 3545.0,
+        "Total Deaths /1M": 153.0,
+        "New Deaths /1M": 0.4
     },
     "Morocco": {
-        "Total Cases": 1268639.0,
-        "New Cases": 199.0,
+        "Total Cases": 1269151.0,
+        "New Cases": "N/A",
         "Total Deaths": 16284.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 33586.0,
+        "Total Cases /1M": 33600.0,
         "New Cases /1M": 431.0,
-        "Total Deaths /1M": 5.0,
+        "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Slovenia": {
-        "Total Cases": 1256814.0,
-        "New Cases": 1988.0,
-        "Total Deaths": 6932.0,
-        "New Deaths": 2.0,
-        "Total Cases /1M": 604809.0,
-        "New Cases /1M": 3336.0,
-        "Total Deaths /1M": 957.0,
-        "New Deaths /1M": 1.0
+        "Total Cases": 1262996.0,
+        "New Cases": 1507.0,
+        "Total Deaths": 6939.0,
+        "New Deaths": 1.0,
+        "Total Cases /1M": 607784.0,
+        "New Cases /1M": 3339.0,
+        "Total Deaths /1M": 725.0,
+        "New Deaths /1M": 0.5
     },
     "Croatia": {
-        "Total Cases": 1253306.0,
-        "New Cases": 219.0,
-        "Total Deaths": 17312.0,
-        "New Deaths": 6.0,
-        "Total Cases /1M": 308750.0,
-        "New Cases /1M": 4265.0,
-        "Total Deaths /1M": 54.0,
+        "Total Cases": 1254644.0,
+        "New Cases": 289.0,
+        "Total Deaths": 17339.0,
+        "New Deaths": 5.0,
+        "Total Cases /1M": 309080.0,
+        "New Cases /1M": 4271.0,
+        "Total Deaths /1M": 71.0,
         "New Deaths /1M": 1.0
     },
     "Lebanon": {
-        "Total Cases": 1220443.0,
+        "Total Cases": 1220661.0,
         "New Cases": "N/A",
-        "Total Deaths": 10736.0,
+        "Total Deaths": 10738.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 182569.0,
+        "Total Cases /1M": 182601.0,
         "New Cases /1M": 1606.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Guatemala": {
-        "Total Cases": 1154211.0,
+        "Total Cases": 1158498.0,
         "New Cases": "N/A",
-        "Total Deaths": 19949.0,
+        "Total Deaths": 19953.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 62108.0,
-        "New Cases /1M": 1073.0,
-        "Total Deaths /1M": "N/A",
-        "New Deaths /1M": "N/A"
-    },
-    "Tunisia": {
-        "Total Cases": 1146991.0,
-        "New Cases": "N/A",
-        "Total Deaths": 29268.0,
-        "New Deaths": "N/A",
-        "Total Cases /1M": 95212.0,
-        "New Cases /1M": 2430.0,
+        "Total Cases /1M": 62338.0,
+        "New Cases /1M": 1074.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Costa Rica": {
-        "Total Cases": 1143597.0,
+        "Total Cases": 1148914.0,
         "New Cases": "N/A",
-        "Total Deaths": 9031.0,
+        "Total Deaths": 9046.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 220671.0,
-        "New Cases /1M": 1743.0,
+        "Total Cases /1M": 221697.0,
+        "New Cases /1M": 1746.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
-    "Cuba": {
-        "Total Cases": 1111379.0,
+    "Tunisia": {
+        "Total Cases": 1147072.0,
         "New Cases": "N/A",
-        "Total Deaths": 8530.0,
+        "Total Deaths": 29268.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 98303.0,
-        "New Cases /1M": 754.0,
+        "Total Cases /1M": 95219.0,
+        "New Cases /1M": 2430.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Bolivia": {
-        "Total Cases": 1110877.0,
-        "New Cases": 111.0,
-        "Total Deaths": 22247.0,
-        "New Deaths": 1.0,
-        "Total Cases /1M": 92630.0,
+        "Total Cases": 1111646.0,
+        "New Cases": "N/A",
+        "Total Deaths": 22248.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 92694.0,
         "New Cases /1M": 1855.0,
-        "Total Deaths /1M": 9.0,
-        "New Deaths /1M": 0.08
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
+    },
+    "Cuba": {
+        "Total Cases": 1111421.0,
+        "New Cases": 9.0,
+        "Total Deaths": 8530.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 98307.0,
+        "New Cases /1M": 754.0,
+        "Total Deaths /1M": 0.8,
+        "New Deaths /1M": "N/A"
     },
     "UAE": {
-        "Total Cases": 1044189.0,
-        "New Cases": 131.0,
+        "Total Cases": 1044704.0,
+        "New Cases": 101.0,
         "Total Deaths": 2348.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 103572.0,
+        "Total Cases /1M": 103623.0,
         "New Cases /1M": 233.0,
-        "Total Deaths /1M": 13.0,
+        "Total Deaths /1M": 10.0,
         "New Deaths /1M": "N/A"
     },
     "Ecuador": {
@@ -699,24 +699,24 @@
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
+    "Panama": {
+        "Total Cases": 1002161.0,
+        "New Cases": "N/A",
+        "Total Deaths": 8526.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 225358.0,
+        "New Cases /1M": 1917.0,
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
+    },
     "Nepal": {
-        "Total Cases": 1000885.0,
-        "New Cases": 1.0,
+        "Total Cases": 1000903.0,
+        "New Cases": 3.0,
         "Total Deaths": 12019.0,
         "New Deaths": "N/A",
         "Total Cases /1M": 33114.0,
         "New Cases /1M": 398.0,
-        "Total Deaths /1M": 0.03,
-        "New Deaths /1M": "N/A"
-    },
-    "Panama": {
-        "Total Cases": 995726.0,
-        "New Cases": "N/A",
-        "Total Deaths": 8519.0,
-        "New Deaths": "N/A",
-        "Total Cases /1M": 223911.0,
-        "New Cases /1M": 1916.0,
-        "Total Deaths /1M": "N/A",
+        "Total Deaths /1M": 0.1,
         "New Deaths /1M": "N/A"
     },
     "Belarus": {
@@ -740,11 +740,11 @@
         "New Deaths /1M": "N/A"
     },
     "Mongolia": {
-        "Total Cases": 992101.0,
+        "Total Cases": 993372.0,
         "New Cases": "N/A",
         "Total Deaths": 2179.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 293688.0,
+        "Total Cases /1M": 294064.0,
         "New Cases /1M": 645.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -760,53 +760,53 @@
         "New Deaths /1M": "N/A"
     },
     "Saudi Arabia": {
-        "Total Cases": 825549.0,
-        "New Cases": 52.0,
-        "Total Deaths": 9461.0,
-        "New Deaths": 2.0,
-        "Total Cases /1M": 23031.0,
+        "Total Cases": 825718.0,
+        "New Cases": 37.0,
+        "Total Deaths": 9471.0,
+        "New Deaths": 3.0,
+        "Total Cases /1M": 23036.0,
         "New Cases /1M": 264.0,
         "Total Deaths /1M": 1.0,
-        "New Deaths /1M": 0.06
+        "New Deaths /1M": 0.08
     },
     "Azerbaijan": {
-        "Total Cases": 824288.0,
-        "New Cases": 43.0,
-        "Total Deaths": 9978.0,
-        "New Deaths": 2.0,
-        "Total Cases /1M": 80026.0,
+        "Total Cases": 824431.0,
+        "New Cases": "N/A",
+        "Total Deaths": 9983.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 80040.0,
         "New Cases /1M": 969.0,
-        "Total Deaths /1M": 4.0,
-        "New Deaths /1M": 0.2
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
     },
     "Paraguay": {
-        "Total Cases": 718164.0,
+        "Total Cases": 777525.0,
         "New Cases": "N/A",
-        "Total Deaths": 19621.0,
+        "Total Deaths": 19630.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 98300.0,
-        "New Cases /1M": 2686.0,
+        "Total Cases /1M": 106425.0,
+        "New Cases /1M": 2687.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Bahrain": {
-        "Total Cases": 696061.0,
+        "Total Cases": 696524.0,
         "New Cases": "N/A",
         "Total Deaths": 1536.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 390172.0,
+        "Total Cases /1M": 390432.0,
         "New Cases /1M": 861.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Sri Lanka": {
-        "Total Cases": 671671.0,
-        "New Cases": 20.0,
-        "Total Deaths": 16802.0,
+        "Total Cases": 671695.0,
+        "New Cases": "N/A",
+        "Total Deaths": 16805.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 31131.0,
+        "Total Cases /1M": 31132.0,
         "New Cases /1M": 779.0,
-        "Total Deaths /1M": 0.9,
+        "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Kuwait": {
@@ -820,23 +820,23 @@
         "New Deaths /1M": "N/A"
     },
     "Dominican Republic": {
-        "Total Cases": 649834.0,
+        "Total Cases": 650381.0,
         "New Cases": "N/A",
         "Total Deaths": 4384.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 58775.0,
+        "Total Cases /1M": 58824.0,
         "New Cases /1M": 397.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Myanmar": {
-        "Total Cases": 633217.0,
-        "New Cases": 21.0,
+        "Total Cases": 633281.0,
+        "New Cases": "N/A",
         "Total Deaths": 19488.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 11466.0,
+        "Total Cases /1M": 11467.0,
         "New Cases /1M": 353.0,
-        "Total Deaths /1M": 0.4,
+        "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Palestine": {
@@ -850,41 +850,41 @@
         "New Deaths /1M": "N/A"
     },
     "Cyprus": {
-        "Total Cases": 614237.0,
+        "Total Cases": 618248.0,
         "New Cases": "N/A",
-        "Total Deaths": 1226.0,
+        "Total Deaths": 1237.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 502079.0,
-        "New Cases /1M": 1002.0,
+        "Total Cases /1M": 505358.0,
+        "New Cases /1M": 1011.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Estonia": {
         "Total Cases": 609233.0,
-        "New Cases": 474.0,
+        "New Cases": "N/A",
         "Total Deaths": 2790.0,
-        "New Deaths": 9.0,
+        "New Deaths": "N/A",
         "Total Cases /1M": 460873.0,
         "New Cases /1M": 2111.0,
-        "Total Deaths /1M": 359.0,
-        "New Deaths /1M": 7.0
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
     },
     "Moldova": {
         "Total Cases": 595073.0,
-        "New Cases": 319.0,
+        "New Cases": "N/A",
         "Total Deaths": 11918.0,
-        "New Deaths": 5.0,
+        "New Deaths": "N/A",
         "Total Cases /1M": 148280.0,
         "New Cases /1M": 2970.0,
-        "Total Deaths /1M": 79.0,
-        "New Deaths /1M": 1.0
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
     },
     "Venezuela": {
-        "Total Cases": 547396.0,
+        "Total Cases": 547697.0,
         "New Cases": "N/A",
-        "Total Deaths": 5828.0,
+        "Total Deaths": 5829.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 18704.0,
+        "Total Cases /1M": 18714.0,
         "New Cases /1M": 199.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -910,42 +910,42 @@
         "New Deaths /1M": "N/A"
     },
     "Ethiopia": {
-        "Total Cases": 494520.0,
+        "Total Cases": 494687.0,
         "New Cases": "N/A",
         "Total Deaths": 7572.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 4093.0,
+        "Total Cases /1M": 4095.0,
         "New Cases /1M": 63.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Qatar": {
-        "Total Cases": 478418.0,
-        "New Cases": 371.0,
+        "Total Cases": 479334.0,
+        "New Cases": "N/A",
         "Total Deaths": 685.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 160548.0,
+        "Total Cases /1M": 160855.0,
         "New Cases /1M": 230.0,
-        "Total Deaths /1M": 125.0,
+        "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Reunion": {
-        "Total Cases": 476088.0,
+        "Total Cases": 477305.0,
         "New Cases": "N/A",
-        "Total Deaths": 902.0,
+        "Total Deaths": 903.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 524291.0,
-        "New Cases /1M": 993.0,
+        "Total Cases /1M": 525631.0,
+        "New Cases /1M": 994.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Honduras": {
-        "Total Cases": 458023.0,
+        "Total Cases": 458921.0,
         "New Cases": "N/A",
-        "Total Deaths": 11043.0,
+        "Total Deaths": 11051.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 44811.0,
-        "New Cases /1M": 1080.0,
+        "Total Cases /1M": 44899.0,
+        "New Cases /1M": 1081.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
@@ -960,14 +960,14 @@
         "New Deaths /1M": "N/A"
     },
     "Bosnia and Herzegovina": {
-        "Total Cases": 400529.0,
-        "New Cases": 28.0,
-        "Total Deaths": 16202.0,
-        "New Deaths": 1.0,
-        "Total Cases /1M": 123266.0,
-        "New Cases /1M": 4986.0,
-        "Total Deaths /1M": 9.0,
-        "New Deaths /1M": 0.3
+        "Total Cases": 400572.0,
+        "New Cases": "N/A",
+        "Total Deaths": 16203.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 123279.0,
+        "New Cases /1M": 4987.0,
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
     },
     "Oman": {
         "Total Cases": 399027.0,
@@ -990,41 +990,41 @@
         "New Deaths /1M": "N/A"
     },
     "Kenya": {
-        "Total Cases": 341515.0,
+        "Total Cases": 341804.0,
         "New Cases": "N/A",
         "Total Deaths": 5684.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 6075.0,
+        "Total Cases /1M": 6080.0,
         "New Cases /1M": 101.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Zambia": {
-        "Total Cases": 333721.0,
+        "Total Cases": 333746.0,
         "New Cases": "N/A",
         "Total Deaths": 4019.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 17140.0,
+        "Total Cases /1M": 17141.0,
         "New Cases /1M": 206.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Albania": {
-        "Total Cases": 333330.0,
+        "Total Cases": 333381.0,
         "New Cases": "N/A",
         "Total Deaths": 3593.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 116290.0,
+        "Total Cases /1M": 116308.0,
         "New Cases /1M": 1254.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Botswana": {
-        "Total Cases": 326373.0,
+        "Total Cases": 326633.0,
         "New Cases": "N/A",
         "Total Deaths": 2790.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 133696.0,
+        "Total Cases /1M": 133802.0,
         "New Cases /1M": 1143.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1040,21 +1040,21 @@
         "New Deaths /1M": "N/A"
     },
     "Montenegro": {
-        "Total Cases": 283663.0,
+        "Total Cases": 283771.0,
         "New Cases": "N/A",
-        "Total Deaths": 2789.0,
+        "Total Deaths": 2790.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 451729.0,
-        "New Cases /1M": 4441.0,
+        "Total Cases /1M": 451901.0,
+        "New Cases /1M": 4443.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Algeria": {
-        "Total Cases": 271079.0,
+        "Total Cases": 271100.0,
         "New Cases": "N/A",
         "Total Deaths": 6881.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 5977.0,
+        "Total Cases /1M": 5978.0,
         "New Cases /1M": 152.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1080,11 +1080,11 @@
         "New Deaths /1M": "N/A"
     },
     "Uzbekistan": {
-        "Total Cases": 246248.0,
+        "Total Cases": 246833.0,
         "New Cases": "N/A",
         "Total Deaths": 1637.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 7162.0,
+        "Total Cases /1M": 7179.0,
         "New Cases /1M": 48.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1100,11 +1100,11 @@
         "New Deaths /1M": "N/A"
     },
     "Mozambique": {
-        "Total Cases": 230590.0,
+        "Total Cases": 230624.0,
         "New Cases": "N/A",
-        "Total Deaths": 2224.0,
+        "Total Deaths": 2226.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 6969.0,
+        "Total Cases /1M": 6970.0,
         "New Cases /1M": 67.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1120,21 +1120,21 @@
         "New Deaths /1M": "N/A"
     },
     "Laos": {
-        "Total Cases": 216660.0,
-        "New Cases": 36.0,
+        "Total Cases": 216810.0,
+        "New Cases": 30.0,
         "Total Deaths": 758.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 28961.0,
+        "Total Cases /1M": 28981.0,
         "New Cases /1M": 101.0,
-        "Total Deaths /1M": 5.0,
+        "Total Deaths /1M": 4.0,
         "New Deaths /1M": "N/A"
     },
     "Iceland": {
-        "Total Cases": 207171.0,
+        "Total Cases": 207355.0,
         "New Cases": "N/A",
         "Total Deaths": 219.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 599812.0,
+        "Total Cases /1M": 600345.0,
         "New Cases /1M": 634.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1150,13 +1150,13 @@
         "New Deaths /1M": "N/A"
     },
     "Afghanistan": {
-        "Total Cases": 205830.0,
-        "New Cases": 43.0,
-        "Total Deaths": 7833.0,
+        "Total Cases": 206145.0,
+        "New Cases": 5.0,
+        "Total Deaths": 7834.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 5050.0,
+        "Total Cases /1M": 5058.0,
         "New Cases /1M": 192.0,
-        "Total Deaths /1M": 1.0,
+        "Total Deaths /1M": 0.1,
         "New Deaths /1M": "N/A"
     },
     "El Salvador": {
@@ -1170,12 +1170,12 @@
         "New Deaths /1M": "N/A"
     },
     "Guadeloupe": {
-        "Total Cases": 197105.0,
+        "Total Cases": 197918.0,
         "New Cases": "N/A",
-        "Total Deaths": 993.0,
+        "Total Deaths": 995.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 493016.0,
-        "New Cases /1M": 2484.0,
+        "Total Cases /1M": 495050.0,
+        "New Cases /1M": 2489.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
@@ -1190,17 +1190,17 @@
         "New Deaths /1M": "N/A"
     },
     "Trinidad and Tobago": {
-        "Total Cases": 185237.0,
+        "Total Cases": 185377.0,
         "New Cases": "N/A",
-        "Total Deaths": 4266.0,
+        "Total Deaths": 4267.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 131693.0,
-        "New Cases /1M": 3033.0,
+        "Total Cases /1M": 131792.0,
+        "New Cases /1M": 3034.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Ghana": {
-        "Total Cases": 171009.0,
+        "Total Cases": 171018.0,
         "New Cases": "N/A",
         "Total Deaths": 1461.0,
         "New Deaths": "N/A",
@@ -1220,11 +1220,11 @@
         "New Deaths /1M": "N/A"
     },
     "Uganda": {
-        "Total Cases": 169663.0,
+        "Total Cases": 169733.0,
         "New Cases": "N/A",
         "Total Deaths": 3630.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 3503.0,
+        "Total Cases /1M": 3505.0,
         "New Cases /1M": 75.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1240,13 +1240,13 @@
         "New Deaths /1M": "N/A"
     },
     "Cambodia": {
-        "Total Cases": 138082.0,
-        "New Cases": 9.0,
+        "Total Cases": 138131.0,
+        "New Cases": 11.0,
         "Total Deaths": 3056.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 8043.0,
+        "Total Cases /1M": 8046.0,
         "New Cases /1M": 178.0,
-        "Total Deaths /1M": 0.5,
+        "Total Deaths /1M": 0.6,
         "New Deaths /1M": "N/A"
     },
     "Rwanda": {
@@ -1270,21 +1270,21 @@
         "New Deaths /1M": "N/A"
     },
     "Malta": {
-        "Total Cases": 115790.0,
-        "New Cases": 15.0,
+        "Total Cases": 115857.0,
+        "New Cases": 6.0,
         "Total Deaths": 809.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 260769.0,
+        "Total Cases /1M": 260920.0,
         "New Cases /1M": 1822.0,
-        "Total Deaths /1M": 34.0,
+        "Total Deaths /1M": 14.0,
         "New Deaths /1M": "N/A"
     },
     "Angola": {
-        "Total Cases": 104491.0,
+        "Total Cases": 104676.0,
         "New Cases": "N/A",
-        "Total Deaths": 1923.0,
+        "Total Deaths": 1924.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 2983.0,
+        "Total Cases /1M": 2988.0,
         "New Cases /1M": 55.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1299,23 +1299,23 @@
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
-    "Channel Islands": {
-        "Total Cases": 95592.0,
-        "New Cases": "N/A",
-        "Total Deaths": 207.0,
-        "New Deaths": "N/A",
-        "Total Cases /1M": 541711.0,
-        "New Cases /1M": 1173.0,
-        "Total Deaths /1M": "N/A",
-        "New Deaths /1M": "N/A"
-    },
     "French Guiana": {
-        "Total Cases": 95451.0,
+        "Total Cases": 96389.0,
         "New Cases": "N/A",
         "Total Deaths": 411.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 303821.0,
+        "Total Cases /1M": 306806.0,
         "New Cases /1M": 1308.0,
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
+    },
+    "Channel Islands": {
+        "Total Cases": 96028.0,
+        "New Cases": "N/A",
+        "Total Deaths": 207.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 544182.0,
+        "New Cases /1M": 1173.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
@@ -1330,17 +1330,17 @@
         "New Deaths /1M": "N/A"
     },
     "Senegal": {
-        "Total Cases": 88859.0,
+        "Total Cases": 88873.0,
         "New Cases": "N/A",
         "Total Deaths": 1968.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 5033.0,
+        "Total Cases /1M": 5034.0,
         "New Cases /1M": 111.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Malawi": {
-        "Total Cases": 88083.0,
+        "Total Cases": 88086.0,
         "New Cases": "N/A",
         "Total Deaths": 2685.0,
         "New Deaths": "N/A",
@@ -1350,7 +1350,7 @@
         "New Deaths /1M": "N/A"
     },
     "Ivory Coast": {
-        "Total Cases": 87885.0,
+        "Total Cases": 87887.0,
         "New Cases": "N/A",
         "Total Deaths": 830.0,
         "New Deaths": "N/A",
@@ -1360,33 +1360,33 @@
         "New Deaths /1M": "N/A"
     },
     "Suriname": {
-        "Total Cases": 81228.0,
+        "Total Cases": 81581.0,
         "New Cases": "N/A",
-        "Total Deaths": 1392.0,
+        "Total Deaths": 1393.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 136099.0,
-        "New Cases /1M": 2332.0,
+        "Total Cases /1M": 136690.0,
+        "New Cases /1M": 2334.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "French Polynesia": {
-        "Total Cases": 76899.0,
+        "Total Cases": 77137.0,
         "New Cases": "N/A",
         "Total Deaths": 649.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 270615.0,
+        "Total Cases /1M": 271452.0,
         "New Cases /1M": 2284.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "New Caledonia": {
         "Total Cases": 76051.0,
-        "New Cases": 868.0,
+        "New Cases": "N/A",
         "Total Deaths": 314.0,
         "New Deaths": "N/A",
         "Total Cases /1M": 261420.0,
         "New Cases /1M": 1079.0,
-        "Total Deaths /1M": 2984.0,
+        "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Eswatini": {
@@ -1400,11 +1400,11 @@
         "New Deaths /1M": "N/A"
     },
     "Guyana": {
-        "Total Cases": 71584.0,
+        "Total Cases": 71627.0,
         "New Cases": "N/A",
         "Total Deaths": 1285.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 90151.0,
+        "Total Cases /1M": 90205.0,
         "New Cases /1M": 1618.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1430,11 +1430,11 @@
         "New Deaths /1M": "N/A"
     },
     "Madagascar": {
-        "Total Cases": 67054.0,
+        "Total Cases": 67259.0,
         "New Cases": "N/A",
-        "Total Deaths": 1411.0,
+        "Total Deaths": 1412.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 2298.0,
+        "Total Cases /1M": 2305.0,
         "New Cases /1M": 48.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1460,27 +1460,27 @@
         "New Deaths /1M": "N/A"
     },
     "Cabo Verde": {
-        "Total Cases": 62991.0,
+        "Total Cases": 63068.0,
         "New Cases": "N/A",
         "Total Deaths": 412.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 110963.0,
+        "Total Cases /1M": 111098.0,
         "New Cases /1M": 726.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Bhutan": {
-        "Total Cases": 62488.0,
+        "Total Cases": 62503.0,
         "New Cases": "N/A",
         "Total Deaths": 21.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 79305.0,
+        "Total Cases /1M": 79324.0,
         "New Cases /1M": 27.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Syria": {
-        "Total Cases": 57396.0,
+        "Total Cases": 57404.0,
         "New Cases": "N/A",
         "Total Deaths": 3163.0,
         "New Deaths": "N/A",
@@ -1500,101 +1500,101 @@
         "New Deaths /1M": "N/A"
     },
     "Seychelles": {
-        "Total Cases": 49380.0,
+        "Total Cases": 50068.0,
         "New Cases": "N/A",
         "Total Deaths": 171.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 496651.0,
+        "Total Cases /1M": 503570.0,
         "New Cases /1M": 1720.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Gabon": {
-        "Total Cases": 48972.0,
+        "Total Cases": 48973.0,
         "New Cases": "N/A",
         "Total Deaths": 306.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 21004.0,
+        "Total Cases /1M": 21005.0,
         "New Cases /1M": 131.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Andorra": {
-        "Total Cases": 46824.0,
+        "Total Cases": 47219.0,
         "New Cases": "N/A",
-        "Total Deaths": 156.0,
+        "Total Deaths": 157.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 604469.0,
-        "New Cases /1M": 2014.0,
+        "Total Cases /1M": 609568.0,
+        "New Cases /1M": 2027.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Papua New Guinea": {
-        "Total Cases": 45819.0,
+        "Total Cases": 46247.0,
         "New Cases": "N/A",
         "Total Deaths": 668.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 4931.0,
+        "Total Cases /1M": 4977.0,
         "New Cases /1M": 72.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Curacao": {
-        "Total Cases": 45559.0,
+        "Total Cases": 45986.0,
         "New Cases": "N/A",
         "Total Deaths": 295.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 275233.0,
+        "Total Cases /1M": 277812.0,
         "New Cases /1M": 1782.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Aruba": {
-        "Total Cases": 43568.0,
+        "Total Cases": 43641.0,
         "New Cases": "N/A",
         "Total Deaths": 236.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 404873.0,
+        "Total Cases /1M": 405552.0,
         "New Cases /1M": 2193.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Mayotte": {
-        "Total Cases": 41176.0,
+        "Total Cases": 41206.0,
         "New Cases": "N/A",
         "Total Deaths": 187.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 143842.0,
+        "Total Cases /1M": 143947.0,
         "New Cases /1M": 653.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Mauritius": {
-        "Total Cases": 41042.0,
+        "Total Cases": 41175.0,
         "New Cases": "N/A",
-        "Total Deaths": 1032.0,
+        "Total Deaths": 1035.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 32197.0,
-        "New Cases /1M": 810.0,
+        "Total Cases /1M": 32301.0,
+        "New Cases /1M": 812.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Tanzania": {
-        "Total Cases": 40471.0,
+        "Total Cases": 40656.0,
         "New Cases": "N/A",
         "Total Deaths": 845.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 639.0,
+        "Total Cases /1M": 642.0,
         "New Cases /1M": 13.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Togo": {
-        "Total Cases": 39328.0,
+        "Total Cases": 39331.0,
         "New Cases": "N/A",
         "Total Deaths": 290.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 4530.0,
+        "Total Cases /1M": 4531.0,
         "New Cases /1M": 33.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1620,11 +1620,11 @@
         "New Deaths /1M": "N/A"
     },
     "Bahamas": {
-        "Total Cases": 37476.0,
+        "Total Cases": 37491.0,
         "New Cases": "N/A",
         "Total Deaths": 833.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 93569.0,
+        "Total Cases /1M": 93607.0,
         "New Cases /1M": 2080.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1650,31 +1650,31 @@
         "New Deaths /1M": "N/A"
     },
     "Haiti": {
-        "Total Cases": 33846.0,
+        "Total Cases": 33862.0,
         "New Cases": "N/A",
         "Total Deaths": 860.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 2898.0,
+        "Total Cases /1M": 2899.0,
         "New Cases /1M": 74.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Mali": {
-        "Total Cases": 32758.0,
+        "Total Cases": 32760.0,
         "New Cases": "N/A",
         "Total Deaths": 742.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 1525.0,
+        "Total Cases /1M": 1526.0,
         "New Cases /1M": 35.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Cayman Islands": {
-        "Total Cases": 31194.0,
+        "Total Cases": 31359.0,
         "New Cases": "N/A",
         "Total Deaths": 36.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 463665.0,
+        "Total Cases /1M": 466118.0,
         "New Cases /1M": 535.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1690,21 +1690,21 @@
         "New Deaths /1M": "N/A"
     },
     "Benin": {
-        "Total Cases": 27922.0,
+        "Total Cases": 27980.0,
         "New Cases": "N/A",
         "Total Deaths": 163.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 2184.0,
+        "Total Cases /1M": 2189.0,
         "New Cases /1M": 13.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Somalia": {
-        "Total Cases": 27254.0,
+        "Total Cases": 27286.0,
         "New Cases": "N/A",
         "Total Deaths": 1361.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 1618.0,
+        "Total Cases /1M": 1620.0,
         "New Cases /1M": 81.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1730,11 +1730,11 @@
         "New Deaths /1M": "N/A"
     },
     "Timor-Leste": {
-        "Total Cases": 23337.0,
+        "Total Cases": 23354.0,
         "New Cases": "N/A",
         "Total Deaths": 138.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 17041.0,
+        "Total Cases /1M": 17054.0,
         "New Cases /1M": 101.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1770,21 +1770,21 @@
         "New Deaths /1M": "N/A"
     },
     "Liechtenstein": {
-        "Total Cases": 20919.0,
-        "New Cases": 29.0,
+        "Total Cases": 20984.0,
+        "New Cases": "N/A",
         "Total Deaths": 87.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 544950.0,
+        "Total Cases /1M": 546643.0,
         "New Cases /1M": 2266.0,
-        "Total Deaths /1M": 755.0,
+        "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Gibraltar": {
-        "Total Cases": 20184.0,
+        "Total Cases": 20207.0,
         "New Cases": "N/A",
         "Total Deaths": 110.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 598861.0,
+        "Total Cases /1M": 599543.0,
         "New Cases /1M": 3264.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1799,6 +1799,16 @@
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
+    "Bermuda": {
+        "Total Cases": 18519.0,
+        "New Cases": "N/A",
+        "Total Deaths": 152.0,
+        "New Deaths": "N/A",
+        "Total Cases /1M": 298988.0,
+        "New Cases /1M": 2454.0,
+        "Total Deaths /1M": "N/A",
+        "New Deaths /1M": "N/A"
+    },
     "Nicaragua": {
         "Total Cases": 18491.0,
         "New Cases": "N/A",
@@ -1809,18 +1819,8 @@
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
-    "Bermuda": {
-        "Total Cases": 18463.0,
-        "New Cases": "N/A",
-        "Total Deaths": 151.0,
-        "New Deaths": "N/A",
-        "Total Cases /1M": 298084.0,
-        "New Cases /1M": 2438.0,
-        "Total Deaths /1M": "N/A",
-        "New Deaths /1M": "N/A"
-    },
     "South Sudan": {
-        "Total Cases": 18348.0,
+        "Total Cases": 18350.0,
         "New Cases": "N/A",
         "Total Deaths": 138.0,
         "New Deaths": "N/A",
@@ -1840,11 +1840,11 @@
         "New Deaths /1M": "N/A"
     },
     "Equatorial Guinea": {
-        "Total Cases": 17182.0,
+        "Total Cases": 17183.0,
         "New Cases": "N/A",
         "Total Deaths": 183.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 11480.0,
+        "Total Cases /1M": 11481.0,
         "New Cases /1M": 122.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1900,11 +1900,11 @@
         "New Deaths /1M": "N/A"
     },
     "Monaco": {
-        "Total Cases": 15339.0,
+        "Total Cases": 15509.0,
         "New Cases": "N/A",
         "Total Deaths": 63.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 385567.0,
+        "Total Cases /1M": 389840.0,
         "New Cases /1M": 1584.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -1930,11 +1930,11 @@
         "New Deaths /1M": "N/A"
     },
     "Saint Martin": {
-        "Total Cases": 12034.0,
+        "Total Cases": 12058.0,
         "New Cases": "N/A",
         "Total Deaths": 63.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 302895.0,
+        "Total Cases /1M": 303499.0,
         "New Cases /1M": 1586.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -2020,11 +2020,11 @@
         "New Deaths /1M": "N/A"
     },
     "Comoros": {
-        "Total Cases": 8941.0,
+        "Total Cases": 8965.0,
         "New Cases": "N/A",
         "Total Deaths": 161.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 9853.0,
+        "Total Cases /1M": 9880.0,
         "New Cases /1M": 177.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -2040,17 +2040,17 @@
         "New Deaths /1M": "N/A"
     },
     "Liberia": {
-        "Total Cases": 8014.0,
+        "Total Cases": 8022.0,
         "New Cases": "N/A",
         "Total Deaths": 294.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 1511.0,
+        "Total Cases /1M": 1512.0,
         "New Cases /1M": 55.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
     },
     "Sierra Leone": {
-        "Total Cases": 7758.0,
+        "Total Cases": 7759.0,
         "New Cases": "N/A",
         "Total Deaths": 126.0,
         "New Deaths": "N/A",
@@ -2140,11 +2140,11 @@
         "New Deaths /1M": "N/A"
     },
     "St. Barth": {
-        "Total Cases": 5336.0,
+        "Total Cases": 5348.0,
         "New Cases": "N/A",
         "Total Deaths": 6.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 536551.0,
+        "Total Cases /1M": 537758.0,
         "New Cases /1M": 603.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -2180,11 +2180,11 @@
         "New Deaths /1M": "N/A"
     },
     "Saint Pierre Miquelon": {
-        "Total Cases": 3248.0,
+        "Total Cases": 3282.0,
         "New Cases": "N/A",
         "Total Deaths": 1.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 563987.0,
+        "Total Cases /1M": 569891.0,
         "New Cases /1M": 174.0,
         "Total Deaths /1M": "N/A",
         "New Deaths /1M": "N/A"
@@ -2230,13 +2230,13 @@
         "New Deaths /1M": "N/A"
     },
     "Macao": {
-        "Total Cases": 797.0,
-        "New Cases": "N/A",
+        "Total Cases": 813.0,
+        "New Cases": 3.0,
         "Total Deaths": 6.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 1194.0,
+        "Total Cases /1M": 1218.0,
         "New Cases /1M": 9.0,
-        "Total Deaths /1M": "N/A",
+        "Total Deaths /1M": 4.0,
         "New Deaths /1M": "N/A"
     },
     "Wallis and Futuna": {
@@ -2260,13 +2260,13 @@
         "New Deaths /1M": "N/A"
     },
     "Niue": {
-        "Total Cases": 124.0,
-        "New Cases": 7.0,
+        "Total Cases": 164.0,
+        "New Cases": 8.0,
         "Total Deaths": "N/A",
         "New Deaths": "N/A",
-        "Total Cases /1M": 76449.0,
+        "Total Cases /1M": 101110.0,
         "New Cases /1M": "N/A",
-        "Total Deaths /1M": 4316.0,
+        "Total Deaths /1M": 4932.0,
         "New Deaths /1M": "N/A"
     },
     "Vatican City": {
@@ -2300,11 +2300,11 @@
         "New Deaths /1M": "N/A"
     },
     "China": {
-        "Total Cases": 315248.0,
-        "New Cases": 3624.0,
+        "Total Cases": 331952.0,
+        "New Cases": 3988.0,
         "Total Deaths": 5233.0,
         "New Deaths": "N/A",
-        "Total Cases /1M": 218.0,
+        "Total Cases /1M": 229.0,
         "New Cases /1M": 4.0,
         "Total Deaths /1M": 3.0,
         "New Deaths /1M": "N/A"

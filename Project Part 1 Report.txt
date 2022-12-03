@@ -1,0 +1,6 @@
+Yousef Alsanea and Anthony Lew
+ME EN 6250
+Covid Dashboard Project
+Part 1: Scrape Data
+
+The data is collected using the requests and bs4 modules to scrape data from the World-O-Meter and WHO websites (https://www.worldometers.info/coronavirus/#countries and https://covid19.who.int/table). Data is saved in a dated JSON file for daily backup data and in a combined "Scraped_Data.json" file using the os, datetime, and json modules. The data is organized in the Scraped_Data file in a dictionary with nested keys for date, country, and data type (e.g., dated_dict["2022-11-28"]["China"]["Total Deaths"] will output the total death count in China on November 28, 2022). Country data is gathered from World-O-Meter and global data is gathered from the WHO. World-O-Meter data includes "Total Cases", "New Cases", "Total Deaths", "New Deaths", "Total Cases /1M", "New Cases /1M", "Total Deaths /1M", and "New Deaths /1M". The WHO data includes "Cumulative Cases", "New Cases (7 day average)", "Cumulative Deaths", and "New Deaths (7 day average)".

@@ -16,7 +16,7 @@ def scrape_website(site_address = "https://www.worldometers.info/coronavirus/#co
     """
     This function will scrape data from the website input into the site_address string
     This function can only handle websites that are formatted exactly as the worldometer coronavirus tracker:
-    "https://www.worldometers.info/coronavirus/#countries"
+    "https://www.worldometers.info/coronavirus/#countries" or "https://covid19.who.int/table"
     The scraped data for today is saved as a .json file with the date as its name (YYYY-MM-DD.json)
     The function will also create a new data file named Scraped_Data.json to save multiple days of data
     If this file already exists, the newly scraped data will be appended into this file
@@ -25,14 +25,86 @@ def scrape_website(site_address = "https://www.worldometers.info/coronavirus/#co
     For example:
     dict_dated["2022-11-28"]["S. Korea"]["Total Deaths"]
     will output the total death count for South Korea on November 28, 2022
+    When the World Health Organization website is passed to the function, data is appended to the dated json file for
+    Cumulative Cases, 7 Day average New Cases, Cumulative Deaths, and 7 Day average New Deaths
+    The WHO data can be added to the Scraped_Data.json file by running the append_date function after the WHO website is scraped.
     This function requires the json, requests, bs4, datetime, and os modules
     """
     #Check if the website passed to the function is worldometer
-    if site_address == "https://www.worldometers.info/coronavirus/#countries":
+    if site_address == "https://covid19.who.int/table":
+        #Gather data from website
+        response = requests.get(site_address)
+        #Use bs4 module to organize data
+        soup = bs4.BeautifulSoup(response.content, "html.parser")
+        #Find only data with "div" label (table data from the WHO)
+        site_data = soup.find_all("div")
+        #Initialize a list for the data
+        data_list = []
+        #For loop for the 4 data points of interest
+        for index in range(4):
+            #Create a variable with the string including the data
+            #Global data starts at list entry 101
+            data_html = str(site_data[101+index])
+            #Initialize variables for the end and start of the data value
+            end_char = -6
+            start_char = end_char
+            #Use a while loop to find the ">" delimiter position
+            while data_html[start_char] != ">":
+                start_char += -1
+            #With the computed start and end points, assign the string with the data value to the data_value variable
+            data_value = data_html[start_char+1:end_char]
+            #In order to convert to integer or float types, remove commas, spaces, and "+"
+            data_value_nc = data_value.replace(",","")
+            data_value_ns = data_value_nc.replace(" ","")
+            data_value_np = data_value_ns.replace("+","")
+            #If statement to handle different data types
+            if data_value_np == "":
+                #If there is no data listed, print "N/A"
+                input_data = "N/A"
+            elif data_value_np[0].isdigit():
+                #If the data begins with a number (digit), assign it as a float
+                input_data = float(data_value_np)
+            else:
+                #Otherwise, leave the data as a string
+                input_data = data_value
+            #Append the data to the data list variable
+            data_list.append(input_data)
+        #Create a dictionary entry for the global data from WHO
+        global_dict = {\
+            "Cumulative Cases":data_list[0],\
+            "New Cases (7 day average)":float(int(data_list[1]/0.7)/10),\
+            "Cumulative Deaths":data_list[2],\
+            "New Deaths (7 day average)":float(int(data_list[3]/0.7)/10)}
+        #Uncomment to print the WHO global data
+        #print(global_dict)
+        #Use the datetime module to compute today's date (to label the data)
+        today_date_obj = datetime.datetime.now(datetime.timezone.utc)
+        #Format the data as a string of YYYY-MM-DD
+        today_date = str(today_date_obj.date())
+        #Check if the json file for today exists
+        if not os.path.isfile(today_date+".json"):
+            #If not, warn the user to run the default scrape data function first
+            print("Warning: Scrape Data from worldometer website first.")
+        else:
+            #Open that existing file
+            json_file_old = open(today_date+".json")
+            #Import the dictionary from that file
+            data_dict = json.load(json_file_old) 
+            #Append the new data from today to that dictionary
+            data_dict["Global"] = global_dict
+            #Open that file to replace the old data
+            with open(today_date+".json", "w") as json_file:
+                #Save the new, updated dictionary to that file as a formatted json
+                json.dump(data_dict , json_file, indent = 4) 
+        #Return statement to break out of the function without continuing through the worldometer function
+        return 0
+
+    elif site_address == "https://www.worldometers.info/coronavirus/#countries":
         pass
     #If it is not, print a warning that the function is only formatted for worldometer
     else:
-        print("Warning: Function is only able to handle websites formatted exactly like 'https://www.worldometers.info/coronavirus/#countries'")
+        table_label = "td"
+        print("Warning: Function is only able to handle websites formatted exactly like 'https://www.worldometers.info/coronavirus/#countries' or 'https://covid19.who.int/table'")
 
     #Get data from the worldometer website using requests modules
     response = requests.get(site_address)
@@ -45,11 +117,10 @@ def scrape_website(site_address = "https://www.worldometers.info/coronavirus/#co
 
     #Use the bs4 soup class to select each element labelled "td"
     #All of the required data (country name, individual statistics) are collected under "td" in the website data
+    #site_data = soup.find_all("span")
     site_data = soup.find_all("td")
 
-    #Uncomment to view all of the "td" data or the data for one example country
-    #print(site_data)
-    #print(site_data[177:198])
+    #Uncomment to view all of the data with the table label
 
     #Initialize variable, 155 is when the applicable data table begins
     #The data is formatted such that each country fills 22 lines of "td" data
@@ -96,7 +167,7 @@ def scrape_website(site_address = "https://www.worldometers.info/coronavirus/#co
             end_char = -5
             #Because world data is formatted differently, the starting character is assigned manually
             if i == 155:
-                start_char = 4
+                start_char = 3
             #For each other country
             else:
                 #Initialize a varable for the beginning of the data value in the string
@@ -276,5 +347,6 @@ def append_date(date_to_append):
 
 #If the module is run as a script, call the scrape_website function
 if __name__ == "__main__":
+    #scrape_website("https://covid19.who.int/table")
     scrape_website()
 
