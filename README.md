@@ -34,7 +34,16 @@ Dated .json files contain dictionaries with the data from previous days that hav
 Updated Scraped_Data.json file contains the dictionary with multiple days' data.
 The dictionary is keyed with [Date][Country Name][Data Type]
 For example, dated_dict["2022-11-28"]["China"]["Total Deaths"] will output the total deaths value for China on Nov. 28, 2022
+  
+RUNNING SCRAPEWEBSITE INSTRUCTIONS:
 
+Download and save the ScrapeWebsite.py file to the project directory.
+The file can be run as a script, which will default to running the scrape_website function (with worldometer as the default website). 
+The file can also be used as a module to call any of the functions from another script. 
+  
+The saved json data files will be located in the same directory.
+These files included dated backup files as well as a Scraped_Data.json file which contains several days of data.
+The data is organized in a dictionary with nested keys of date, country (or world), and data type. 
 
 RUNNING DASHBOARD INSTRUCTIONS:
 To run dashboard navigate to directory in cmd then run : "python -m bokeh serve --show CovidDashboard.py"
