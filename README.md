@@ -48,4 +48,5 @@ The data is organized in a dictionary with nested keys of date, country (or worl
 RUNNING DASHBOARD INSTRUCTIONS:
 To run dashboard navigate to directory in cmd then run : "python -m bokeh serve --show CovidDashboard.py"
 
+NOTE: Some statistics were not available for data scraping so plots may not be available for specific dates.
 
